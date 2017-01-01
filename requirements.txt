@@ -1,0 +1,4 @@
+numpy==1.11.2
+pandas==0.18.1
+jupyter==1.0.0
+python-docx==0.8.6

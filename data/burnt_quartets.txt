@@ -1,7 +1,3 @@
-Burnt Norton
-
-I
-
 Time present and time past
 Are both perhaps present in time future
 And time future contained in time past.
@@ -17,10 +13,12 @@ Down the passage which we did not take
 Towards the door we never opened
 Into the rose-garden. My words echo
 Thus, in your mind.
-                                  But to what purpose
+
+But to what purpose
 Disturbing the dust on a bowl of rose-leaves
 I do not know.
-                                  Other echoes
+
+Other echoes
 Inhabit the garden. Shall we follow?
 Quick, said the bird, find them, find them,
 Round the corner. Through the first gate,
@@ -140,8 +138,6 @@ But abstention from movememnt; while the world moves
 In appetency, on its metalled ways
 Of time past and time future.
 
-IV
-
 Time and the bell have buried the day,
 the black cloud carries the sun away.
 Will the sunflower turn to us, will the clematis
@@ -152,8 +148,6 @@ Fingers of yew be curled
 Down on us? After the kingfisher's wing
 Has answered light to light, and is silent, the light is still
 At the still point of the turning world.
-
-V
 
 Words move, music moves
 Only in time; but that which is only living
@@ -195,9 +189,6 @@ Quick now, here, now, always-
 Ridiculous the waste sad time
 Stretching before and after.
 
-East Coker
-
-I
 
       In my beginning is my end. In succession
 Houses rise and fall, crumble, are extended,
@@ -224,7 +215,7 @@ Is absorbed, not refracted, by grey stone.
 The dahlias sleep in the empty silence.
 Wait for the early owl.
 
-                                            In that open field
+In that open field
 If you do not come too close, if you do not come too close,
 On a summer midnight, you can hear the music
 Of the weak pipe and the little drum
@@ -253,8 +244,6 @@ Eating and drinking. Dung and death.
 Prepares for heat and silence. Out at sea the dawn wind
 Wrinkles and slides. I am here
 Or there, or elsewhere. In my beginning.
-
-II
 
 What is the late November doing
 With the disturbance of the spring
@@ -310,8 +299,6 @@ The houses are all gone under the sea.
 
 The dancers are all gone under the hill.
 
-III
-
 O dark dark dark. They all go into the dark,
 The vacant interstellar spaces, the vacant into the vacant,
 The captains, merchant bankers, eminent men of letters,
@@ -361,7 +348,6 @@ And what you do not know is the only thing you know
 And what you own is what you do not own
 And where you are is where you are not.
 
-IV
 
 The wounded surgeon plies the steel
 That quesions the distempered part;
@@ -392,8 +378,6 @@ The bloody flesh our only food:
 In spite of which we like to think
 That we are sound, substantial flesh and blood-
 Again, in spite of that, we call this Friday good.
-
-V
 
 So here I am, in the middle way, having had twenty years-
 Twenty years largely wasted, the years of l'entre deux guerres-
@@ -442,8 +426,6 @@ group of rocks, with a beacon, off the N.E. coast of Cape Ann,
 Massachusetts. Salvages is pronounced to rhyme with assuages.
 Groaner: a whistling buoy.)
 
-I
-
       I do not know much about gods; but I think that the river
 Is a strong brown god - sullen, untamed and intractable,
 Patient to some degree, at first recognised as a frontier;
@@ -470,9 +452,10 @@ It tosses up our losses, the torn seine,
 The shattered lobsterpot, the broken oar
 And the gear of foreign dead men. The sea has many voices,
 Many gods and many voices.
-                                                 The salt is on the briar rose,
+
+The salt is on the briar rose,
 The fog is in the fir trees.
-                                                 The sea howl
+The sea howl
 And the sea yelp, are different voices
 Often together heard: the whine in the rigging,
 The menace and caress of wave that breaks on water,
@@ -495,8 +478,6 @@ Whem time stops and time is never ending;
 And the ground swell, that is and was from the beginning,
 Clangs
 The bell.
-
-II
 
       Where is there an end of it, the soundless wailing,
 The silent withering of autumn flowers
@@ -629,8 +610,6 @@ On the field of battle.
                                            Not fare well,
 But fare forward, voyagers.
 
-IV
-
       Lady, whose shrine stands on the promontory,
 Pray for all those who are in ships, those
 Whose business has to do with fish, and
@@ -648,8 +627,6 @@ Ended their voyage on the sand, in the sea's lips
 Or in the dark throat which will not reject them
 Or wherever cannot reach them the sound of the sea bell's
 Perpetual angelus.
-
-V
 
 To communicate with Mars, converse with spirits,
 To report the behaviour of the sea monster,
@@ -700,10 +677,6 @@ We, content at the last
 If our temporal reversion nourish
 (Not too far from the yew-tree)
 The life of significant soil.
-
-Little Gidding
-
-I
 
 Midwinter spring is its own season
 Sempiternal though sodden towards sundown,
@@ -763,8 +736,6 @@ Of the dead is tongued with fire beyond the language of the living.
 Here, the intersection of the timeless moment
 Is England and nowhere. Never and always.
 
-II
-
 Ash on an old man's sleeve
 Is all the ash the burnt roses leave.
 Dust in the air suspended
@@ -772,7 +743,7 @@ Marks the place where a story ended.
 Dust inbreathed was a house-
 The walls, the wainscot and the mouse,
 The death of hope and despair,
-        This is the death of air.
+This is the death of air.
 
 There are flood and drouth
 Over the eyes and in the mouth,
@@ -781,7 +752,7 @@ Contending for the upper hand.
 The parched eviscerate soil
 Gapes at the vanity of toil,
 Laughs without mirth.
-        This is the death of earth.
+This is the death of earth.
 
 Water and fire succeed
 The town, the pasture and the weed.
@@ -917,7 +888,6 @@ All manner of thing shall be well
 By the purification of the motive
 In the ground of our beseeching.
 
-IV
 
 The dove descending breaks the air
 With flame of incandescent terror
@@ -934,8 +904,6 @@ The intolerable shirt of flame
 Which human power cannot remove.
    We only live, only suspire
    Consumed by either fire or fire.
-
-V
 
 What we call the beginning is often the end
 And to make and end is to make a beginning.
